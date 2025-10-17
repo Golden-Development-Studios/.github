@@ -11,11 +11,6 @@
 
 ## 💫 Our Expertise
 
-- **Full-Stack Development** - End-to-end web and mobile solutions
-- **Cloud Architecture** - Scalable and resilient cloud-native applications
-- **DevOps & Automation** - Streamlined development and deployment pipelines
-- **AI & Machine Learning** - Intelligent systems and data-driven insights
-- **Open Source Contributions** - Building tools that benefit the developer community
 
 ## 🌟 Featured Projects
 <!--

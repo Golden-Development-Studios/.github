@@ -18,7 +18,7 @@
 - **Open Source Contributions** - Building tools that benefit the developer community
 
 ## 🌟 Featured Projects
-
+<!--
 ### [Project Aurora](https://github.com/Golden-Developments-Studios/aurora)
 Enterprise-grade cloud management platform with intelligent resource allocation and automated scaling.
 
@@ -27,21 +27,18 @@ Modern full-stack framework for building scalable web applications with TypeScri
 
 ### [Quantum CLI](https://github.com/Golden-Developments-Studios/quantum-cli)
 Developer toolkit for rapid prototyping and deployment with built-in best practices.
-
+-->
 ## 🛠️ Technology Stack
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -56,12 +53,12 @@ Developer toolkit for rapid prototyping and deployment with built-in best practi
 </div>
 
 ## 🏆 Featured Repositories
-
+<!--
 <div align="center">
 
 [![Aurora](https://github-readme-stats.vercel.app/api/pin/?username=Golden-Developments-Studios&repo=aurora&theme=radical)](https://github.com/Golden-Developments-Studios/aurora)
 [![Nexus Framework](https://github-readme-stats.vercel.app/api/pin/?username=Golden-Developments-Studios&repo=nexus&theme=radical)](https://github.com/Golden-Developments-Studios/nexus)
-
+-->
 </div>
 
 ## 🤝 Join Our Community
@@ -76,14 +73,14 @@ We believe in the power of collaboration and open source. Here's how you can get
 ## 📬 Get in Touch
 
 - **Website**: [coming soon]<!-- Replace with actual website -->
-- **Email**: contact@goldendevstudios.com<!-- Replace with actual email -->
-- **Twitter**: [@GoldenDevStudios](https://twitter.com/GoldenDevStudios)<!-- Replace with actual handle -->
-- **LinkedIn**: [Golden Development Studios](https://linkedin.com/company/golden-development-studios)<!-- Replace with actual LinkedIn -->
+- **Email**: <!-- contact@goldendevstudios.com --> <!-- Replace with actual email -->
+- **Twitter**: <!-- [@GoldenDevStudios](https://twitter.com/GoldenDevStudios)--><!-- Replace with actual handle -->
+- **LinkedIn**: <!-- [Golden Development Studios](https://linkedin.com/company/golden-development-studios)--><!-- Replace with actual LinkedIn -->
 
 ## 📄 License
-
+<!--
 All our open-source projects are released under the [MIT License](LICENSE) unless otherwise specified.
-
+-->
 ---
 
 <div align="center">
